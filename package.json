@@ -1,0 +1,22 @@
+{
+  "name": "advanced_css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maitandat1507/advanced_css.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maitandat1507/advanced_css/issues"
+  },
+  "homepage": "https://github.com/maitandat1507/advanced_css#readme",
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
